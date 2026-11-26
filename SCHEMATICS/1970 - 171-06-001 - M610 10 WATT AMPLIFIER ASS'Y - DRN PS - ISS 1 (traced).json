@@ -1,0 +1,87 @@
+{
+ "drawing": "Modules/UNSORTED/M171/SCHEMATICS/1970 - 171-06-001 - M610 10 WATT AMPLIFIER ASS'Y - DRN PS - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/0053cae749a92b47.svg",
+ "sheet": {
+  "number": "B 171-06-001",
+  "title": "M610 10 WATT AMPLIFIER ASS'Y",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 47.4, 338.6, 431.8],
+ "outlines": {
+  "line": {"rings": 8031, "straight": {"n": 43451, "mm": 26120.6}, "curved": {"n": 12532, "mm": 11112.0}},
+  "text": {"rings": 685, "straight": {"n": 4785, "mm": 3479.6}, "curved": {"n": 1492, "mm": 1423.8}},
+  "tb": {"rings": 132, "straight": {"n": 483, "mm": 240.4}, "curved": {"n": 103, "mm": 83.6}}
+ },
+ "circles": [
+  {"c": [138.3, 271.6], "r": 13.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.0},
+  {"c": [138.3, 302.5], "r": 13.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.1},
+  {"c": [138.0, 241.3], "r": 13.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.1},
+  {"c": [96.0, 287.8], "r": 13.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.2},
+  {"c": [206.2, 341.1], "r": 5.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.1}
+ ],
+ "boxes": [
+  {"mm": [127.8, 340.6, 175.4, 350.4], "w": 47.6, "h": 9.8, "from": "ring", "words": ["r48"]},
+  {"mm": [157.6, 220.8, 198.0, 314.1], "w": 40.4, "h": 93.3, "from": "ring", "words": ["2 7"]},
+  {"mm": [84.2, 309.8, 90.0, 313.1], "w": 5.8, "h": 3.3, "from": "ring"}
+ ],
+ "text": {
+  "words": 38,
+  "lines": [
+   {"mm": [25.3, 355.6, 49.7, 363.5], "text": "Isr2h"},
+   {"mm": [67.4, 356.0, 91.1, 364.7], "text": "Ir3]"},
+   {"mm": [151.1, 356.5, 168.4, 364.6], "text": "TQ"},
+   {"mm": [60.5, 345.7, 97.2, 353.3], "text": "00427"},
+   {"mm": [0.0, 308.7, 93.9, 351.9], "text": "JI0p0e ZI}"},
+   {"mm": [140.1, 341.6, 161.1, 349.2], "text": "r48"},
+   {"mm": [139.0, 327.3, 161.1, 335.0], "text": "R49"},
+   {"mm": [0.0, 266.2, 102.6, 303.1], "text": "4404144 Q5"},
+   {"mm": [164.1, 259.7, 180.1, 269.3], "text": "2 7"},
+   {"mm": [87.4, 223.7, 144.7, 260.6], "text": "J4B Q6"},
+   {"mm": [24.6, 237.7, 47.3, 245.4], "text": "C 21"},
+   {"mm": [59.2, 203.8, 68.2, 211.0], "text": "22"},
+   {"mm": [201.9, 83.3, 278.1, 98.9], "text": "BECK SYSTES"},
+   {"mm": [284.3, 84.8, 303.8, 99.5], "text": "@id"},
+   {"mm": [40.4, 86.1, 64.3, 95.0], "text": "FINISH"},
+   {"mm": [163.2, 82.5, 193.9, 97.1], "text": "WARD"},
+   {"mm": [3.0, 82.3, 22.2, 90.2], "text": "p 9"},
+   {"mm": [62.6, 77.3, 100.4, 86.9], "text": "CLEAN"},
+   {"mm": [0.0, 68.2, 35.2, 76.1], "text": "114379"},
+   {"mm": [197.8, 62.0, 241.2, 74.2], "text": "M 610"},
+   {"mm": [40.4, 57.9, 75.3, 67.7], "text": "MATERIAL"},
+   {"mm": [162.6, 49.0, 200.8, 58.6], "text": "10 WATT"},
+   {"mm": [206.2, 49.0, 300.1, 59.6], "text": "AMPLIPIER Ass"},
+   {"mm": [0.0, 22.7, 48.6, 38.0], "text": "97 Ve Ep"},
+   {"mm": [38.0, 23.3, 134.1, 38.0], "text": "DEC U Sisached"},
+   {"mm": [48.8, 22.5, 155.0, 40.0], "text": "ETTTZE AYGus"},
+   {"mm": [239.0, 29.6, 262.3, 37.5], "text": "oo1"},
+   {"mm": [287.8, 30.9, 301.0, 38.8], "text": "U8E"},
+   {"mm": [212.7, 29.8, 229.7, 36.0], "text": "05"}
+  ]
+ },
+ "title_block": {"mm": [156.5, 73.8, 235.2, 107.4], "from": "title-block words (training set)", "text": ["WARD"]},
+ "dots": [
+  {"c": [68.9, 430.5], "r": 0.6, "lines": 0},
+  {"c": [316.0, 123.3], "r": 0.5, "lines": 0},
+  {"c": [294.3, 71.8], "r": 0.8, "lines": 0},
+  {"c": [296.9, 48.5], "r": 0.5, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** component layout B 171-06-001, size B 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–339 mm across, 47–432 mm up",
+  "- **Outlines:** line 8,031 rings, 43,451 straight (26,121 mm) / 12,532 curved (11,112 mm); text 685 rings, 4,785 straight (3,480 mm) / 1,492 curved (1,424 mm); tb 132 rings, 483 straight (240 mm) / 103 curved (83.6 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 13.1 @ (138.3, 271.6), r 13.1 @ (138.3, 302.5), r 13.1 @ (138.0, 241.3), r 13.1 @ (96.0, 287.8)",
+  "- **Closed boxes:** 3; named: r48; 2 7",
+  "- **Dots (junctions):** 4",
+  "- **Words (OCR):** 38 in 29 lines: Isr2h · Ir3] · TQ · 00427 · JI0p0e ZI} · r48 · R49 · 4404144 Q5 · 2 7 · J4B Q6 · C 21 · 22",
+  "- **Title block:** (156, 74)–(235, 107) mm: WARD"
+ ]
+}
