@@ -33,7 +33,7 @@ Wiki page: [M171](../../../../PAGES/M171.md)
 - **Words (OCR):** 38 in 29 lines: Isr2h · Ir3] · TQ · 00427 · JI0p0e ZI} · r48 · R49 · 4404144 Q5 · 2 7 · J4B Q6 · C 21 · 22
 - **Title block:** (156, 74)–(235, 107) mm: WARD
 
-Every curve, box, word and wire group: [1970 - 171-06-001 - M610 10 WATT AMPLIFIER ASS'Y - DRN PS - ISS 1 (traced).json](../SCHEMATICS/1970%20-%20171-06-001%20-%20M610%2010%20WATT%20AMPLIFIER%20ASS%27Y%20-%20DRN%20PS%20-%20ISS%201%20(traced).json) (the CAD file: `1970 - 171-06-001 - M610 10 WATT AMPLIFIER ASS'Y - DRN PS - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 171-06-001 - M610 10 WATT AMPLIFIER ASS'Y - DRN PS - ISS 1 (traced).json](../SCHEMATICS/1970%20-%20171-06-001%20-%20M610%2010%20WATT%20AMPLIFIER%20ASS%27Y%20-%20DRN%20PS%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1970 - 171-06-001 - M610 10 WATT AMPLIFIER ASS'Y - DRN PS - ISS 1 (traced).dxf`).
 
 ## Full text
 
