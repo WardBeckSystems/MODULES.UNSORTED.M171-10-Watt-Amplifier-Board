@@ -1,5 +1,5 @@
 # 1970 - 171-06-001 - M610 10 WATT AMPLIFIER ASS'Y - DRN PS - ISS 1.jpg
-Wiki page: [M171](../../../../PAGES/M171.md)
+Wiki page: [M171](../)
 
 
 - **Year:** 1970 (title block date)

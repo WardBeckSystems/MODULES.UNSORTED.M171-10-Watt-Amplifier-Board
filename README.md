@@ -1,6 +1,6 @@
 # M171 10 Watt Amplifier Board · Amplifiers
 
-Ward-Beck Systems M171, 1970|3. Wiki page: [M171 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M171.html)
+Ward-Beck Systems M171, 1970|3. Wiki page: [M171 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M171-10-Watt-Amplifier-Board/)
 
 | Folder | What is in it | Files |
 |---|---|---|
